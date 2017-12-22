@@ -1,0 +1,9 @@
+Package: com.kevll.dingtalkhelper
+Name: DingTalkHelper
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: 可自定义设置wifi或定位远程打卡的钉钉助手
+Maintainer: kevin
+Author: kevin
+Section: Tweaks
